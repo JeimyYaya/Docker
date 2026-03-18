@@ -1,0 +1,44 @@
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+
+# Compiled class files
+*.class
+
+# Logs
+*.log
+
+# IDEs
+.idea/
+*.iml
+*.ipr
+*.iws
+
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+
+# Docker (opcional, pero útil)
+docker-compose.override.yml
+
+# Java temp files
+*.jar
+*.war
+*.ear
+
+# Test output
+surefire-reports/
+
+# MacOS
+.AppleDouble
+.LSOverride
